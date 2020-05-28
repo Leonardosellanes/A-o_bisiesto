@@ -1,0 +1,14 @@
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.exe.config
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.exe
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.pdb
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\bin\Debug\Año_bisiesto.xml
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.vbprojAssemblyReference.cache
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.frmMenu.resources
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.Resources.resources
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.vbproj.GenerateResource.cache
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.vbproj.CoreCompileInputs.cache
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.exe
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.xml
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.pdb
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.frmAño.resources
+C:\Users\artec\source\repos\Año_bisiesto\Año_bisiesto\obj\Debug\Año_bisiesto.Form2.resources
